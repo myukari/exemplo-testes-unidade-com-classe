@@ -9,5 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myukari/exemplo-testes-unidade-com-classe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myukari/exemplo-testes-unidade-com-classe/issues"
+  },
+  "homepage": "https://github.com/myukari/exemplo-testes-unidade-com-classe#readme",
+  "dependencies": {
+    "mocha": "^11.7.6"
+  }
 }
